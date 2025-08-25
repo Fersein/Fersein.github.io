@@ -1,11 +1,11 @@
 {
-    "name": "ecoledelavie_manager",
-    "short_name": "ecoledelavie_manager",
+    "name": "life_school",
+    "short_name": "life_school",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Site d'inscription et de paiement des frais de l'ecole de l vie.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
